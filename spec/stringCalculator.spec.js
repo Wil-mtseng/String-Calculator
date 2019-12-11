@@ -4,7 +4,7 @@ Wilfred Ratala
 15 November 2019
 */
 
-const StringCalculator = require("../src/stringCalculator.js")
+const StringCalculator = require("../src/string_calculator.js")
 const calculator = new StringCalculator();
 
 // Outputs zero if string is empty
